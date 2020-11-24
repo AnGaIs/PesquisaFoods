@@ -1,6 +1,6 @@
 
 
-<img src="[PesquisaFoods/pesquisa.png at master · AnGaIs/PesquisaFoods (github.com)](https://github.com/AnGaIs/PesquisaFoods/blob/master/src/assets/pesquisa.png)" width="900" alt=""/>
+<img src="https://github.com/AnGaIs/PesquisaFoods/blob/master/src/assets/pesquisa.png" width="500" alt="Logo Digital Innovation one"/>
 
 
 
