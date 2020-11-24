@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+<img src="[PesquisaFoods/pesquisa.png at master · AnGaIs/PesquisaFoods (github.com)](https://github.com/AnGaIs/PesquisaFoods/blob/master/src/assets/pesquisa.png)" width="900" alt=""/>
+
+
 
 ## Available Scripts
 
