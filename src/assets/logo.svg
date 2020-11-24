@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="166.4"
+   height="62.242"
+   viewBox="0 0 166.4 62.242"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="3.8581732"
+     inkscape:cx="109.61557"
+     inkscape:cy="25.965038"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Grupo_29" />
+  <g
+     id="Grupo_29"
+     data-name="Grupo 29"
+     transform="translate(-97 -12.412)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.5417px;line-height:1.25;font-family:Sacramento;-inkscape-font-specification:Sacramento;fill:#6200ee;fill-opacity:1;stroke:none;stroke-width:1.61355"
+       x="114.52505"
+       y="69.287827"
+       id="text838"
+       transform="scale(0.9669245,1.0342069)"><tspan
+         sodipodi:role="line"
+         id="tspan836"
+         x="114.52505"
+         y="69.287827"
+         style="stroke-width:1.61355">Foods</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.7461px;line-height:1.25;font-family:Sacramento;-inkscape-font-specification:Sacramento;fill:#000000;fill-opacity:0.508306;stroke:none;stroke-width:0.443653"
+       x="113.40794"
+       y="26.806887"
+       id="text842"
+       transform="scale(0.98160019,1.0187447)"><tspan
+         sodipodi:role="line"
+         id="tspan840"
+         x="113.40794"
+         y="26.806887"
+         style="fill:#000000;fill-opacity:0.508306;stroke-width:0.443653">Pesquisa</tspan></text>
+  </g>
+</svg>
